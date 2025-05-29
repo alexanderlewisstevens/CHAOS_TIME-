@@ -6,4 +6,6 @@ page 1
 Page 2
     - Just becasue something is natural does that mean its right?
        -  use of anesthesia
-    -what ought to be the case often is 
+    -what ought to be the case often is not actually the case
+        -is/ought gap
+    -

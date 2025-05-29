@@ -1,0 +1,1 @@
+the main claim in which tha author is posing is that us humans consider certain facts to be morally revelavant and some not, despite not having a
